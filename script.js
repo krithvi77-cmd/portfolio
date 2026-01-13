@@ -61,7 +61,7 @@
                 title: "Web Development",
                 subtitle: "HTML, CSS, JavaScript assignments",
                 assignments: [
-                    { name: "Portfolio Website", url: "#" },
+                    { name: "Portfolio Website", url: "https://krithvi77-cmd.github.io/portfolio/" },
                     { name: "Responsive Landing Page", url: "#" },
                     { name: "CSS Grid Gallery", url: "#" },
                     { name: "Interactive Form Validation", url: "#" },
