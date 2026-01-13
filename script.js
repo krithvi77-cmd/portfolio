@@ -132,7 +132,7 @@
                 
                 
                 assignmentList.innerHTML = data.assignments.map((assignment, index) => `
-                    <a href="${assignment.url}" class="assignment-item">
+                    <a href="${assignment.url}" class="assignment-item" target="_blank">
                         <div class="assignment-item-info">
                             <span class="assignment-number">${String(index + 1).padStart(2, '0')}</span>
                             <span class="assignment-item-title">${assignment.name}</span>
