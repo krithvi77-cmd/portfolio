@@ -62,15 +62,14 @@
                 subtitle: "HTML, CSS, JavaScript assignments",
                 assignments: [
                     { name: "Portfolio Website", url: "https://krithvi77-cmd.github.io/portfolio/" },
-                    { name: "Responsive Landing Page", url: "#" },
-                    { name: "CSS Grid Gallery", url: "#" },
-                    { name: "Interactive Form Validation", url: "#" },
-                    { name: "Animated Navigation Menu", url: "#" }
+                    { name: "Jumbble Words", url: "https://krithvishai-fp3jv0rp-8443.zcodecorp.in/test/test/drag.html" },
+                    { name: "Event Management", url: "https://krithvishai-02489-8443.zcodecorp.in/Event_Management/" },
+                    { name: "Social media post", url: "https://krithvishai-02489-8443.zcodecorp.in/table_A012/table_alignment/table.html" }
                 ]
             },
             react: {
                 title: "React Projects",
-                subtitle: "ReactJS component-based assignments",
+                subtitle:  "ReactJS component-based assignments",
                 assignments: [
                     { name: "Todo App with Hooks", url: "#" },
                     { name: "Weather Dashboard", url: "#" },
