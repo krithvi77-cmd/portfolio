@@ -6,6 +6,11 @@
             box-sizing: border-box;
         }
 
+     html * {
+               cursor: none !important;
+      }
+
+
         :root {
             --primary: #FF6B35;
             --secondary: #F7931E;
@@ -23,7 +28,6 @@
             background: var(--darker);
             color: var(--text);
             overflow-x: hidden;
-            cursor: none !important ;
         }
 
         .grain {
