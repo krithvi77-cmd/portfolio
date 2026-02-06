@@ -23,6 +23,7 @@
             background: var(--darker);
             color: var(--text);
             overflow-x: hidden;
+            cursor: none !importatnt ;
         }
 
         .grain {
