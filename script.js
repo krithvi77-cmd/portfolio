@@ -80,7 +80,7 @@
                 title: "Server & DB",
                 subtitle: "Node.js backend assignments",
                 assignments: [
-                    { name: "NySQL query(basic)", url: "https://workdrive.zohoexternal.in/file/kkc9e3465e1ca76f84070bb0e19a65bd9ca96" },
+                    { name: "MySQL query(basic)", url: "https://workdrive.zohoexternal.in/file/kkc9e3465e1ca76f84070bb0e19a65bd9ca96" },
                     { name: "Authentication System", url: "#" },
                 ]
             },
