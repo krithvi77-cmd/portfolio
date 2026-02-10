@@ -67,22 +67,11 @@
                     { name: "Social media post", url: "https://krithvishai-02489-8443.zcodecorp.in/table_A012/table_alignment/table.html" }
                 ]
             },
-            react: {
-                title: "React Projects",
-                subtitle:  "ReactJS component-based assignments",
-                assignments: [
-                    { name: "Todo App with Hooks", url: "#" },
-                    { name: "Weather Dashboard", url: "#" },
-                    { name: "E-commerce Cart", url: "#" },
-                    { name: "Real-time Chat UI", url: "#" },
-                    { name: "State Management Demo", url: "#" }
-                ]
-            },
             server: {
-                title: "Server Side",
+                title: "Server & DB",
                 subtitle: "Node.js backend assignments",
                 assignments: [
-                    { name: "REST API Development", url: "#" },
+                    { name: "NySQL query(basic)", url: "https://workdrive.zohoexternal.in/file/kkc9e3465e1ca76f84070bb0e19a65bd9ca96" },
                     { name: "Authentication System", url: "#" },
                     { name: "File Upload Handler", url: "#" },
                     { name: "WebSocket Chat Server", url: "#" },
@@ -98,17 +87,6 @@
                     { name: "Algorithm Design", url: "#" },
                     { name: "Collections Framework", url: "#" },
                     { name: "Exception Handling", url: "#" }
-                ]
-            },
-            database: {
-                title: "Database",
-                subtitle: "MySQL database assignments",
-                assignments: [
-                    { name: "Database Schema Design", url: "#" },
-                    { name: "Complex Queries", url: "#" },
-                    { name: "Stored Procedures", url: "#" },
-                    { name: "Normalization Practice", url: "#" },
-                    { name: "Database Optimization", url: "#" }
                 ]
             }
         };
