@@ -81,6 +81,9 @@
                 assignments: [
                     { name: "Data Structures Implementation", url: "https://github.com/krithvi77-cmd/Trie" },
                     { name: "ORM", url: "https://github.com/krithvi77-cmd/ORM-tool" },
+                    {name: "tic Tac toe", url: "https://github.com/krithvi77-cmd/Tic-Tac-Toe"},
+                    {name: "Battle ship", url: "https://github.com/krithvi77-cmd/BattleShip"},
+                    {name:  "Hot Potato game", url: "https://github.com/krithvi77-cmd/Hot-Potato-game"}
               ]
             }
         };
