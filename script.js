@@ -60,7 +60,7 @@
                 title: "Web Development",
                 subtitle: "HTML, CSS, JavaScript assignments",
                 assignments: [
-                    { name: "Portfolio Website", url: "https://krithvi77-cmd.github.io/portfolio/" },
+                    { name: "Portfolio Website", url: "https://github.com/krithvi77-cmd/portfolio" },
                     { name: "Jumbble Words", url: "https://krithvishai-fp3jv0rp-8443.zcodecorp.in/test/test/drag.html" },
                     { name: "Event Management", url: "https://krithvishai-02489-8443.zcodecorp.in/Event_Management/" },
                     { name: "Social media post", url: "https://krithvishai-02489-8443.zcodecorp.in/table_A012/table_alignment/table.html" },
