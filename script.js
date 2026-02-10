@@ -90,7 +90,8 @@
                 assignments: [
                     { name: "Data Structures Implementation", url: "https://github.com/krithvi77-cmd/Trie" },
                     { name: "ORM", url: "https://github.com/krithvi77-cmd/ORM-tool" },
-              
+              ]
+            }
         };
 
       
