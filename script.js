@@ -11,16 +11,6 @@
             }, 100);
         });
 
-        document.querySelectorAll('a, button, .project-card, .assignment-card').forEach(el => {
-            el.addEventListener('mouseenter', () => {
-                cursor.style.transform = 'translate(-50%, -50%) scale(1.5)';
-                follower.style.transform = 'translate(-50%, -50%) scale(1.5)';
-            });
-            el.addEventListener('mouseleave', () => {
-                cursor.style.transform = 'translate(-50%, -50%) scale(1)';
-                follower.style.transform = 'translate(-50%, -50%) scale(1)';
-            });
-        });
 
     document.querySelectorAll('a, button, .project-card, .assignment-card').forEach(el => {
             el.addEventListener('mouseenter', () => {
@@ -73,7 +63,8 @@
                     { name: "Portfolio Website", url: "https://krithvi77-cmd.github.io/portfolio/" },
                     { name: "Jumbble Words", url: "https://krithvishai-fp3jv0rp-8443.zcodecorp.in/test/test/drag.html" },
                     { name: "Event Management", url: "https://krithvishai-02489-8443.zcodecorp.in/Event_Management/" },
-                    { name: "Social media post", url: "https://krithvishai-02489-8443.zcodecorp.in/table_A012/table_alignment/table.html" }
+                    { name: "Social media post", url: "https://krithvishai-02489-8443.zcodecorp.in/table_A012/table_alignment/table.html" },
+                    { name: "kanban project", url: "https://github.com/krithvi77-cmd/Kanban"}
                 ]
             },
             server: {
@@ -81,7 +72,7 @@
                 subtitle: "Node.js backend assignments",
                 assignments: [
                     { name: "MySQL query(basic)", url: "https://workdrive.zohoexternal.in/file/kkc9e3465e1ca76f84070bb0e19a65bd9ca96" },
-                    { name: "Authentication System", url: "#" },
+                    { name: "Boom squad", url: "https://github.com/krithvi77-cmd/Bomb-squad" },
                 ]
             },
             java: {
